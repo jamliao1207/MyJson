@@ -10,7 +10,7 @@
     "numbertovote": "100",
     "amount": "1",
     "discribtion":"test test test",
-    "Images": [
+    "images": [
       "https://i.imgur.com/YQ6ZE42.jpg"
     ]
   },
@@ -24,7 +24,7 @@
     "numbertovote": "100",
     "amount": "2",
     "discribtion":"test test test",
-    "Images": [
+    "images": [
       "https://img.global.news.samsung.com/tw/wp-content/uploads/2020/02/Galaxy-S20%EF%BD%9CS20-5G-e1581448966147.jpg"
     ]
   },
@@ -38,7 +38,7 @@
     "numbertovote": "100",
     "amount": "3",
     "discribtion":"test test test",
-    "Images": [
+    "images": [
       "https://resource01-proxy.ulifestyle.com.hk/res/v3/image/content/2620000/2622705/28Nov2019_Morris_A1_1024_1024.jpg"
     ]
   },
@@ -52,7 +52,7 @@
     "numbertovote": "100",
     "amount": "4",
     "discribtion":"test test test",
-    "Images": [
+    "images": [
       "https://img.technews.tw/wp-content/uploads/2019/12/11194208/%E5%B7%A6%E4%B8%8A-SPECTRE-x360-%E5%8F%B3%E4%B8%8A-ENVY-13-%E6%9C%A8%E7%B4%8B%E6%AC%BE-%E5%B7%A6%E4%B8%8B-Zbook-%E5%8F%B3%E4%B8%8B-Elite-DragonFly-624x468.jpg"
     ]
   },
@@ -66,7 +66,7 @@
     "numbertovote": "100",
     "amount": "5",
     "discribtion":"test test test",
-    "Images": [
+    "images": [
       "https://b.ecimg.tw/items/CBAH23A900554TE/i010002_1462939188.jpg"
     ]
   },
@@ -80,7 +80,7 @@
     "numbertovote": "100",
     "amount": "6",
     "discribtion":"test test test",
-    "Images": [
+    "images": [
       "http://www.pxmart.com.tw/images/customer_coupon01.png"
     
     ]
@@ -95,7 +95,7 @@
     "numbertovote": "100",
     "amount": "2",
     "discribtion":"test test test",
-    "Images": [
+    "images": [
       "https://img.ruten.com.tw/s1/2/1c/65/21913454147685_645.jpg"
     
     ]
