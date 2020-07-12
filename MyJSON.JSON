@@ -1,104 +1,50 @@
-
 [
   {
     "ID": "00001",
-    "name":"Switch",
-    "upload_date": "20200620",
-    "delete_date": "20200725",
+    "name": "7-11 購物金 200元",
+    "upload_date": 20200620,
+    "delete_date": 20200725,
     "deletedateforshow": "2020/07/25",
-    "icontype": "pig",
-    "numbertovote": "100",
-    "amount": "1",
-    "discribtion":"test test test",
-    "images": [
-      "https://i.imgur.com/YQ6ZE42.jpg"
-    ]
+    "icontype": "",
+    "numbertovote": 100,
+    "amount": 2,
+    "discription": "全台灣通用",
+    "images": "https://b.ecimg.tw/items/CBAH23A900554TE/i010002_1462939188.jpg"
   },
   {
     "ID": "00002",
-    "name":"Samsung",
-    "upload_date": "20200620",
-    "delete_date": "20200715",
-    "deletedateforshow": "2020/07/15",
-    "icontype": "pig",
-    "numbertovote": "100",
-    "amount": "2",
-    "discribtion":"test test test",
-    "images": [
-      "https://img.global.news.samsung.com/tw/wp-content/uploads/2020/02/Galaxy-S20%EF%BD%9CS20-5G-e1581448966147.jpg"
-    ]
+    "name": "全聯購物金 200元",
+    "upload_date": 20200620,
+    "delete_date": 20200725,
+    "deletedateforshow": "2020/07/25",
+    "icontype": "",
+    "numbertovote": 200,
+    "amount": 2,
+    "discription": "全台灣通用",
+    "images": "http://www.pxmart.com.tw/images/customer_coupon01.png"
   },
   {
     "ID": "00003",
-    "name":"Iphone",
-    "upload_date": "20200620",
-    "delete_date": "20200821",
-    "deletedateforshow": "2020/08/21",
-    "icontype": "chicken",
-    "numbertovote": "100",
-    "amount": "3",
-    "discribtion":"test test test",
-    "images": [
-      "https://resource01-proxy.ulifestyle.com.hk/res/v3/image/content/2620000/2622705/28Nov2019_Morris_A1_1024_1024.jpg"
-    ]
+    "name": "陶板屋禮券2張",
+    "upload_date": 20200620,
+    "delete_date": 20200725,
+    "deletedateforshow": "2020/07/25",
+    "icontype": "",
+    "numbertovote": 300,
+    "amount": 1,
+    "discription": "全台灣通用",
+    "images": "https://img.ruten.com.tw/s1/2/1c/65/21913454147685_645.jpg"
   },
   {
     "ID": "00004",
-    "name":"hp X360",
-    "upload_date": "20200620",
-    "delete_date": "20200921",
-    "deletedateforshow": "2020/09/21",
-    "icontype": "chicken",
-    "numbertovote": "100",
-    "amount": "4",
-    "discribtion":"test test test",
-    "images": [
-      "https://img.technews.tw/wp-content/uploads/2019/12/11194208/%E5%B7%A6%E4%B8%8A-SPECTRE-x360-%E5%8F%B3%E4%B8%8A-ENVY-13-%E6%9C%A8%E7%B4%8B%E6%AC%BE-%E5%B7%A6%E4%B8%8B-Zbook-%E5%8F%B3%E4%B8%8B-Elite-DragonFly-624x468.jpg"
-    ]
-  },
-  {
-    "ID": "00005",
-    "name":"7-11禮券 200",
-    "upload_date": "20200620",
-    "delete_date": "20201121",
-    "deletedateforshow": "2020/11/21",
-    "icontype": "cow",
-    "numbertovote": "100",
-    "amount": "5",
-    "discribtion":"test test test",
-    "images": [
-      "https://b.ecimg.tw/items/CBAH23A900554TE/i010002_1462939188.jpg"
-    ]
-  },
-  {
-    "ID": "00006",
-    "name":"全聯禮券 500",
-    "upload_date": "20200620",
-    "delete_date": "20201221",
-    "deletedateforshow": "2020/12/21",
-    "icontype": "cow",
-    "numbertovote": "100",
-    "amount": "6",
-    "discribtion":"test test test",
-    "images": [
-      "http://www.pxmart.com.tw/images/customer_coupon01.png"
-    
-    ]
-  },
-  {
-   "ID": "00007",
-    "name":"陶板屋 500元",
-    "upload_date": "20200620",
-    "delete_date": "20210121",
-    "deletedateforshow": "2021/10/21",
-    "icontype": "cow",
-    "numbertovote": "100",
-    "amount": "2",
-    "discribtion":"test test test",
-    "images": [
-      "https://img.ruten.com.tw/s1/2/1c/65/21913454147685_645.jpg"
-    
-    ]
+    "name": "威秀影城 電影票 2張",
+    "upload_date": 20200620,
+    "delete_date": 20200725,
+    "deletedateforshow": "2020/07/25",
+    "icontype": "",
+    "numbertovote": 300,
+    "amount": 1,
+    "discription": "適用威秀影城",
+    "images": "https://cf.shopee.tw/file/d8a6a7eddaafb3dbe195ea97691d9548"
   }
- 
 ]
