@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "00001",
+    "name": "Line Point 10 點",
+    "upload_date": "20200026",
+    "delete_date": "20200725",
+    "deletedateforshow": "2020/07/25",
+    "icontype": "",
+    "numbertovote": "100",
+    "amount": "2",
+    "description": "LINE POINTS即享券15點\n本券使用方式：點選本券上之「立即入點」 或  開啟指定連結\n1、點選本券上之「立即入點」→確認LINE帳號→完成入點\n2、開啟指定連結：https://txp.rs/LinePointVoucher/LinePointRedeemEvent\n(1) 輸入本券序號(點數代碼)，須區分大小寫，以半形英數字輸入序號，勿輸入空格。\n(2) 使用您在LINE上設定的電子郵件帳號和密碼登入。\n(3) 完成入點。",
+    "https://media.ticketxpress.com.tw/Images/1f13e5c3-3f62-4355-8952-d44673c698a9.jpg"
+  },
+  {
+    "ID": "00002",
+    "name": "全聯購物金 200元",
+    "upload_date": "20200620",
+    "delete_date": "20200725",
+    "deletedateforshow": "2020/07/25",
+    "icontype": "",
+    "numbertovote": "200",
+    "amount": "2",
+    "description": "全台灣通用",
+    "images": "http://www.pxmart.com.tw/images/customer_coupon01.png"
+  },
+  {
+    "ID": "00003",
+    "name": "陶板屋禮券2張",
+    "upload_date": "20200620",
+    "delete_date": "20200725",
+    "deletedateforshow": "2020/07/25",
+    "icontype": "",
+    "numbertovote": "300",
+    "amount": "1",
+    "description": "全台灣通用",
+    "images": "https://img.ruten.com.tw/s1/2/1c/65/21913454147685_645.jpg"
+  },
+  {
+    "ID": "00004",
+    "name": "威秀影城 電影票 2張",
+    "upload_date": "20200620",
+    "delete_date": "20200725",
+    "deletedateforshow": "2020/07/25",
+    "icontype": "",
+    "numbertovote": "300",
+    "amount": "1",
+    "description": "適用威秀影城",
+    "images": "https://cf.shopee.tw/file/d8a6a7eddaafb3dbe195ea97691d9548"
+  }
+]
